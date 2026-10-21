@@ -1,2 +1,2 @@
 # odooit
-A new repository created by Skysize
+A new repository created by Skysize.io
